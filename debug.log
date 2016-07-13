@@ -1,0 +1,36 @@
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Hexo version: 3.2.2","time":"2016-07-13T03:32:36.928Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Working directory: ~\\Desktop\\blog\\","time":"2016-07-13T03:32:36.928Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Config loaded: ~\\Desktop\\blog\\_config.yml","time":"2016-07-13T03:32:37.084Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-generator-archive","time":"2016-07-13T03:32:37.099Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-generator-category","time":"2016-07-13T03:32:37.099Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-deployer-git","time":"2016-07-13T03:32:37.099Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-generator-index","time":"2016-07-13T03:32:37.099Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-renderer-ejs","time":"2016-07-13T03:32:37.115Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-generator-tag","time":"2016-07-13T03:32:37.115Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-renderer-stylus","time":"2016-07-13T03:32:37.115Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-renderer-marked","time":"2016-07-13T03:32:37.115Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Plugin loaded: hexo-server","time":"2016-07-13T03:32:37.193Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Loading database.","time":"2016-07-13T03:32:37.209Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":30,"msg":"Start processing","time":"2016-07-13T03:32:37.240Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Processed: _posts/hello-world.md","time":"2016-07-13T03:32:37.256Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Processed: _posts/postName.md","time":"2016-07-13T03:32:37.256Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: page","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: post","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: archive","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: category","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: index","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: tag","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Generator: asset","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":30,"msg":"Hexo is running at http://localhost:4000/. Press Ctrl+C to stop.","time":"2016-07-13T03:32:37.287Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":20,"msg":"Database saved","time":"2016-07-13T03:32:37.303Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:32:45.262Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:32:53.147Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:32:54.074Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:32:55.458Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:32:56.283Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:09.260Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:09.710Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:10.127Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:10.547Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:11.012Z","v":0}
+{"name":"hexo","hostname":"DESKTOP-9JN5ULR","pid":7496,"level":40,"msg":"No layout: index.html","time":"2016-07-13T03:33:12.403Z","v":0}
